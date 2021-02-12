@@ -452,14 +452,14 @@ button {
     height: 320px;
 }
 .bradcaump-title {
-    color: #343434;
+    color: #ffffff;
     font-size: 36px;
     font-weight: 400;
     line-height: 30px;
     text-transform: capitalize;
 }
 .breadcrumb-item {
-    color: #343434;
+    color: #ffffff;
     font-size: 18px;
     text-transform: capitalize;
 }
@@ -688,6 +688,7 @@ h3.widget-title-modal {
     top: 50%;
     -webkit-transform: translateY(-50%);
     transform: translateY(-50%);
+    color: #ffffff;
 }
 .new__product__thumb a img {
     width: 100%;
@@ -695,10 +696,11 @@ h3.widget-title-modal {
 .new__product__details h2 {
     font-size: 22px;
     text-transform: capitalize;
+    color: #ffffff;
 }
 
 .htc__btn.shop__now__btn {
-    color: #3a3a3a;
+    color: #ffffff;
     font-family: Dosis;
     font-size: 16px;
     font-weight: 500;
@@ -709,7 +711,7 @@ h3.widget-title-modal {
     transition: all 0.5s ease 0s;
 }
 .htc__btn.shop__now__btn::before {
-    background: #000 none repeat scroll 0 0;
+    background: rgb(255, 255, 255) none repeat scroll 0 0;
     content: "";
     height: 1px;
     position: absolute;
@@ -720,15 +722,16 @@ h3.widget-title-modal {
     width: 20px;
 }
 .htc__btn.shop__now__btn:hover {
-    color: #ff4136;
+    color: #ffffff;
 }
 .htc__btn.shop__now__btn:hover::before {
-    background: #ff4136 none repeat scroll 0 0;
+    background: #ffffff none repeat scroll 0 0;
     width: 25px;
 }
 .new__product__btn {
     margin-top: 8px;
     text-align: center;
+    color: #ffffff;
 }
 .new__product.text__align--left .new__product__details {
     left: 60px;
